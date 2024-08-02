@@ -44,24 +44,17 @@ The game's story revolves around stars from other worlds entering Earth, causing
 The name "Pentagonum" is derived from the shape of a pentagon, representing the five main institutes that surround a mysterious central city. However, there are six schools in total. The secrets of the game will be revealed once the game is completed.
 Currently, I am working on the following academies:
 
-#Hecolix Mechanic Institute: 
+#Hecolix Mechanic Institute: A mechanical institute where users are accompanied by "Drivers," providing power to the users. Students here are trained to wield greatswords, believing that powerful swords will help humanity. This path restricts users to greatswords only.
 
-A mechanical institute where users are accompanied by "Drivers," providing power to the users. Students here are trained to wield greatswords, believing that powerful swords will help humanity. This path restricts users to greatswords only.
+#Concerval Pegacy High School: A high school that trains shield knights, focusing on durability. This path teaches the use of weapons paired with shields, emphasizing that thicker shields provide better protection. Students have skills to restore health and high durability, serving as the tank of the game.
 
-#Concerval Pegacy High School: 
-A high school that trains shield knights, focusing on durability. This path teaches the use of weapons paired with shields, emphasizing that thicker shields provide better protection. Students have skills to restore health and high durability, serving as the tank of the game.
+#Shisendou Academy: Named from a Japanese term, this academy trains students in swift combat. Agility is key here, with training in katana slashing, assassination with knives, and long-range archery. Students can also jump and run on walls.
 
-#Shisendou Academy: 
-Named from a Japanese term, this academy trains students in swift combat. Agility is key here, with training in katana slashing, assassination with knives, and long-range archery. Students can also jump and run on walls.
+#FETA (Fenice Eterna Torcia Academy): This academy trains students to use energy for flight, resembling birds. Their motto is "Controlling the skies equals victory." This path uses long-range weapons like guns, snipers, rifles, and bows, avoiding melee weapons.
 
-#FETA (Fenice Eterna Torcia Academy): 
-This academy trains students to use energy for flight, resembling birds. Their motto is "Controlling the skies equals victory." This path uses long-range weapons like guns, snipers, rifles, and bows, avoiding melee weapons.
+#Zhi Long Eighth Academy: This academy teaches Chinese martial arts, the ancient art of monks in China, focusing on close combat with fists, spears, halberds, and swords, aiming to destroy from within.
 
-#Zhi Long Eighth Academy: 
-This academy teaches Chinese martial arts, the ancient art of monks in China, focusing on close combat with fists, spears, halberds, and swords, aiming to destroy from within.
-
-#Genesis Crusader High School: 
-This high school teaches a combination of all other academies' arts, making it versatile. Students here can use dual swords, dual weapons of any kind, and guns but cannot fly like FETA. They can also use greatswords, incorporating skills from all academies.
+#Genesis Crusader High School: This high school teaches a combination of all other academies' arts, making it versatile. Students here can use dual swords, dual weapons of any kind, and guns but cannot fly like FETA. They can also use greatswords, incorporating skills from all academies.
 
 Each academy selects representative students to compete, enhancing the academy's prestige and attracting more students (players). Players take on the role of students, choosing their preferred academy and skills to fight the parallel dimension invaders entering our world.
 
