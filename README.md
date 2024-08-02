@@ -1,11 +1,13 @@
 3 Language Translation (日本語 ,English , ไทย )
 
-# Project Pentagonum War (UnOfficial Name)
+# Project Pentagonum War (Unofficial Name)
 
 -- 日本語 -- 
-こんにちは、私の名前はWeeraphat Luansanthia、業界ではSLAZROSSまたはFiammettaとして知られています。私はRoblox StudioでMMORPGゲームを開発しており、現在、コーディングとモデリングの両方を一人で行っていて、友人がモデリングを手伝ってくれています。このプロジェクトは、仮称でPentagonum Warと呼ばれ、2024年6月22日に開発を開始しました。私はTNI Thai-Nichi Institute of Technologyを卒業します。私は日本文化が大好きで、アニメのようなゲームを作ることがコーディングのインスピレーションです。
 
 #Pentagonum Warとは何ですか？
+
+こんにちは、私の名前はWeeraphat Luansanthia、業界ではSLAZROSSまたはFiammettaとして知られています。私はRoblox StudioでMMORPGゲームを開発しており、現在、コーディングとモデリングの両方を一人で行っていて、友人がモデリングを手伝ってくれています。このプロジェクトは、仮称でPentagonum Warと呼ばれ、2024年6月22日に開発を開始しました。私はTNI Thai-Nichi Institute of Technologyを卒業します。私は日本文化が大好きで、アニメのようなゲームを作ることがコーディングのインスピレーションです。
+
 このゲームのストーリーは、異世界の星が地球に入り込み、各星の並行世界が歪むというものです。この戦いは60年間続いており、モンスターと戦うために学生を訓練する6つの戦闘学校が設立されました。各学校は異なる戦闘技術を教えています。
 「Pentagonum」という名前は、五角形の形から由来し、神秘的な中央都市を囲む5つの主要な学院を表しています。しかし、全部で6つの学校があります。ゲームの秘密は、ゲームが完成したときに明かされます。
 
@@ -31,14 +33,13 @@
 
 各アカデミーは代表学生を選び、競い合い、アカデミーの威信を高め、より多くの学生（プレイヤー）を引き寄せます。プレイヤーは学生の役割を担い、好みのアカデミーとスキルを選び、私たちの世界に入り込む並行次元の侵入者と戦います。
 
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 -- English Translate -- 
 
+# What is Pentagonum War ?
 Hello, my name is Weeraphat Luansanthia ,known in the industry as SLAZROSS or Fiammetta. I am developing a game on Roblox Studio, an MMORPG, where I handle both the coding and modeling aspects alone, with a friend helping out with the modeling. This project, tentatively named Pentagonum War, began development on June 22, 2024. i'm Graduating From TNI Thai-Nichi Institute Technology , I really Love Japan Culture Also And Inspiration of Coding Is to Create game like Anime  
 
-
-# What is Pentagonum War ?
 The game's story revolves around stars from other worlds entering Earth, causing the parallel worlds of each star to distort. This conflict, ongoing for 60 years, led to the establishment of six fighting academies that train students to battle monsters that have entered our world. Each academy teaches different combat arts.
 The name "Pentagonum" is derived from the shape of a pentagon, representing the five main institutes that surround a mysterious central city. However, there are six schools in total. The secrets of the game will be revealed once the game is completed.
 Currently, I am working on the following academies:
@@ -63,17 +64,15 @@ This high school teaches a combination of all other academies' arts, making it v
 
 Each academy selects representative students to compete, enhancing the academy's prestige and attracting more students (players). Players take on the role of students, choosing their preferred academy and skills to fight the parallel dimension invaders entering our world.
 
---
+-------------------------------------------------------------------------------------------------------------------------------
 
 
 --แปลไทย--
 
-
-
+# Pentagonum War คืออะไร ?
 
 สวัสดี ผมมีนามว่า วีรภัทร เลื่อนสันเทียะ ในนามวงการชื่อ SLAZROSS หรือ Fiammetta ฉันกำลังทำเกมลง Roblox Studio โดนเป็นเกมแนว MMORPG ในปัจจุกันกำลังทำเกมนี้ในส่วน Coding และปั้นโมเดล คนเดียว และ เพื่อนอีกคนทำหน้าที่ปั้นโมเดลให้ โดยโปรเจ็คนี้ยังมีชื่อเรียกที่ไม่เป็นทางการว่า Pentagonum War เกมนี้กำลังพัฒนา โดยโปรเจ็คนี้ถูกสร้างเมื่อวันที่ 22/6/2567 , ฉันกำลังจะจบการศึกษาจาก TNI Thai-Nichi Institute of Technology ฉันรักวัฒนธรรมญี่ปุ่นมาก และแรงบันดาลใจในการเขียนโค้ดของฉันคือการสร้างเกมที่เหมือนกับในอนิเมะ
 
-# แล้ว Pentagonum War คืออะไร ?
 โดยเกมนี้จะพูดถึงการที่มีดาวดาราจากนอกโลกหลุดเข้ามาในโลก ทำให้โลกคู่ขนานของแต่ละดาวบิดเบี้ยว โดยในปัจจุบัน การต่อสู้นี้ของบรรพบุรุษยาวมานับ 60 ปีได้ ทำให้ได้เกิดโรงเรียน หรือสถาบันการต่อสู้โรงเรียน 6 แห่ง ซึ่งฝึกนักศึกษาในสถาบันเพื่อทำการต่อสู้มอนสเตอร์ที่หลุดเข้ามายังโลก โดยในแต่ละสถาบันสอนการใช้ศิลปะต่อสู้ที่ต่างกัน 
 โดยชื่อ Pentagonum มาจาก 5 เหลี่ยม โดยมี 5 สถาบันหลัก ที่อยู่ล้อมรอบในกลางเมืองที่เป็นปริศนา แต่มี 6 โรงเรียน ?  ความลับของเกมจะถูกเปิดขึ้นเมื่อเกมดำเนินการเสร็จแล้ว
 
